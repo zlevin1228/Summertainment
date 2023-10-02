@@ -2,3 +2,14 @@ img#logo {
     height: 20%;
     width: 20%;
 }
+
+#parallax { /*Taken from Student Portfolio*/
+    background-image: url("");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: -10px;
+    margin-right: -10px;
+  }
