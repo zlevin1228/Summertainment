@@ -1,17 +1,20 @@
-
+body {
+  background-color: rgb(78, 78, 78);
+}
 
 img#logo {
   height: 20%;
   width: 20%;
 }
 
-.ParallaxVideo{ 
+.ParallaxVideo { 
   height: auto;
   padding-bottom: 50px;
   padding-top: 50px; 
 }
 .ParallaxVideo video{ 
   min-width: 100%;
+  min-height: 100%;
   position: fixed;
   top:0;
   z-index: -999;
@@ -21,11 +24,19 @@ color: #fff;
 text-transform: uppercase;
 }
 
-#donny {
-  margin-top: 800px;
-  height: 600px;
+#video-parallax {
+  height: 100%;
+}
+
+.donny {
+  margin-top:710px;
   background: black;
-  
+  padding: 10px;
+}
+
+#imgstyle {
+  border: 4px solid white;
+  border-radius: 20px;
 }
 
 .header1 {
@@ -35,4 +46,13 @@ text-transform: uppercase;
 
 info1 {
   color: white;
+  padding-top: 50%;
+  padding-bottom: 50%;
+  font-size: 1vw;
+}
+
+header {
+  color: white;
+  font-family: sans-serif;
+  background-color: #932320;
 }
