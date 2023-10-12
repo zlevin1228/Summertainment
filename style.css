@@ -114,3 +114,15 @@ h1.header4 {
 .border {
   border-radius: 2px;
 }
+
+#images {
+  max-height: 500px;
+  max-width: 800px;
+  align-items: center;
+  justify-content: center;
+}
+
+footer {
+  margin-top: auto;
+  
+}
