@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(78, 78, 78);
+  background-color: rgb(78, 78, 78); 
 }
 
 img#logo {
@@ -111,10 +111,6 @@ h1.header4 {
   font-size: 1.1vw;
 }
 
-.border {
-  border-radius: 2px;
-}
-
 #images {
   max-height: 500px;
   max-width: 800px;
@@ -123,6 +119,25 @@ h1.header4 {
 }
 
 footer {
-  margin-top: auto;
+  position:fixed;
+  bottom:0;
+  width:100%; 
+  }
   
 }
+
+.styousel {
+  justify-content: center;
+}
+
+#pink {
+  color: #e5c6fd;
+  font-size: 1.1vw;
+  padding-top: 15px;
+  text-align: center;
+  list-style-position: inside;
+}
+
+.carousel-item #img {
+  object-fit: contain;
+  }
