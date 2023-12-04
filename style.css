@@ -46,7 +46,7 @@ text-transform: uppercase;
 
 .info1 {
   color: white;
-  font-size: 1.1vw;
+  font-size: 14px;
 }
 
 header {
@@ -69,7 +69,7 @@ header {
 
 .info2 {
   color: #e5c6fd;
-  font-size: 1.1vw;
+  font-size: 14px;
 }
 
 #center {
@@ -91,7 +91,7 @@ header {
 
 .info3 {
   color: white;
-  font-size: 1.1vw;
+  font-size: 14px;
 }
 
 .experience {
@@ -108,7 +108,7 @@ h1.header4 {
 
 .info4 {
   color: white;
-  font-size: 1.1vw;
+  font-size: 14px;
 }
 
 #images {
@@ -123,8 +123,6 @@ footer {
   bottom:0;
   width:100%; 
   }
-  
-}
 
 .styousel {
   justify-content: center;
@@ -132,7 +130,7 @@ footer {
 
 #pink {
   color: #e5c6fd;
-  font-size: 1.1vw;
+  font-size: 14px;
   padding-top: 15px;
   text-align: center;
   list-style-position: inside;
