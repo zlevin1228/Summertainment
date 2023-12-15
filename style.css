@@ -153,20 +153,32 @@ footer {
 .more {
   margin-top:710px;
   background: black;
+  padding: 10px;
   }
 
 .more2 {
-  padding-top: 10px;
+  padding: 10px;
   background: black;
     }
 
 .more3 {
-  padding-top: 10px;
   background: black;
-  padding-bottom: 10px;
+  padding: 10px;
     }
 
 .info5 {
   color: #e5c6fd;
   font-size: 14px;
   }
+
+ol {
+  padding: 0;
+  margin: 0;
+}
+
+.fix {
+  padding: 0;
+  margin: 0;
+  font-size: 0;
+  clear: both;
+}
