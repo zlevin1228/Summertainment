@@ -149,3 +149,24 @@ footer {
 .carousel-item #img {
   object-fit: contain;
   }
+
+.more {
+  margin-top:710px;
+  background: black;
+  }
+
+.more2 {
+  padding-top: 10px;
+  background: black;
+    }
+
+.more3 {
+  padding-top: 10px;
+  background: black;
+  padding-bottom: 10px;
+    }
+
+.info5 {
+  color: #e5c6fd;
+  font-size: 14px;
+  }
